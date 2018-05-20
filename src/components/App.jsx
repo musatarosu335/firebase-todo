@@ -1,7 +1,8 @@
 import React from 'react';
+import Todos from './Todos';
 
 const App = () => (
-  <h1>Hello World!</h1>
+  <Todos />
 );
 
 export default App;
